@@ -132,9 +132,9 @@ It also serves as a living archive that will continue to evolve with every new p
 
 > Portfolio homepage
 
-```html
+html
 <img src="image/portfolio-preview.png" width="100%">
-```
+
 
 ---
 
