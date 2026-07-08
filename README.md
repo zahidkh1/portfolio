@@ -187,22 +187,37 @@ If you discover any issues or have recommendations for improvement, feel free to
 
 # 📬 Connect With Me
 
-📧 **Email**
+<div align="center">
 
-**zahidkhan0719@gmail.com**
+<a href="mailto:zahidkhan0719@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-💼 **LinkedIn**
+<a href="https://github.com/zahidkh1">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-https://linkedin.com/in/zahid-khan-116488322
+<a href="https://www.linkedin.com/in/zahid-khan-116488322">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-💻 **GitHub**
+<a href="https://x.com/jueel_19">
+<img src="https://cdn.simpleicons.org/x" height="45"/>
+</a>
 
-https://github.com/zahidkh1
+<a href="https://www.instagram.com/khn_zahid_18/">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
 
-🌐 **Portfolio**
+<a href="https://www.youtube.com/@LivingPrototype">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
+</a>
 
-https://YOUR-PORTFOLIO-LINK
+<a href="https://superlative-squirrel-c8f581.netlify.app/#page-top">
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45"/>
+</a>
 
+</div>
 ---
 
 <div align="center">
