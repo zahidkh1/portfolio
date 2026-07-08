@@ -14,7 +14,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://YOUR-PORTFOLIO-LINK)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)][(https://YOUR-PORTFOLIO-LINK)](https://superlative-squirrel-c8f581.netlify.app/#page-top)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zahid-khan-116488322)
 [![GitHub](https://img.shields.io/badge/GitHub-zahidkh1-black?style=for-the-badge&logo=github)](https://github.com/zahidkh1)
 
