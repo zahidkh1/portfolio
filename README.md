@@ -1,101 +1,129 @@
-<div align="center">
+# Portfolio
 
-# 👋 Hi, I'm Zahid Khan
+## Overview
 
-### Robotics Engineer • AI Enthusiast • Full Stack Learner • Content Creator
+This repository contains the source code for my personal portfolio website.
 
-*"Building robots. Building software. Building myself."*
+The portfolio serves as a central platform for presenting my academic background, technical expertise, research interests, engineering projects, certifications, and professional achievements. It has been designed to document my continuous development as a Computer Science Engineering student specializing in Robotics and Artificial Intelligence.
 
-<img src="image/logo.jpeg" width="180" alt="Zahid Khan"/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://YOUR-PORTFOLIO-LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zahid-khan-116488322)
-[![GitHub](https://img.shields.io/badge/GitHub-zahidkh1-black?style=for-the-badge&logo=github)](https://github.com/zahidkh1)
-
-</div>
+The website is fully responsive and provides an organized presentation of my work, allowing visitors, recruiters, researchers, and collaborators to explore my technical profile.
 
 ---
 
-# 🚀 About This Portfolio
+## Research Interests
 
-This repository contains my personal portfolio website, designed to showcase my journey as a Computer Science Engineering student specializing in Robotics and Artificial Intelligence.
-
-The website highlights my projects, certifications, technical skills, achievements, and creative work while reflecting my passion for building innovative solutions.
-
-It serves as my digital identity for recruiters, collaborators, and fellow developers.
-
----
-
-# ✨ Features
-
-- 👨‍💻 Professional Developer Portfolio
-- 🤖 Robotics & AI Projects
-- 🏆 Certifications & Achievements
-- 🎓 Education Timeline
-- 💡 Technical Skills
-- 🎬 Video Editing Showcase
-- 📸 Creative Portfolio
-- 📱 Fully Responsive Design
-- ⚡ Smooth Navigation
-- 🌙 Modern UI
+- Robotics
+- Artificial Intelligence
+- Embedded Systems
+- Computer Vision
+- Autonomous Systems
+- Internet of Things (IoT)
+- Human–Robot Interaction
+- Full-Stack Web Development
 
 ---
 
-# 🛠 Built With
+## Repository Structure
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Font Awesome
-- Google Fonts
-
----
-
-# 📂 Portfolio Sections
-
-- About Me
-- Achievements
-- Education
-- Skills
-- Interests
-- Awards & Certifications
-- Social Links
-
----
-
-# 🎯 Current Goals
-
-- Build intelligent robotics systems
-- Learn Full Stack Development
-- Explore Artificial Intelligence
-- Create impactful open-source projects
-- Grow as a content creator through Living Prototype
-
----
-
-# 📸 Preview
-
-> Add a screenshot of your portfolio here.
-
-```html
-<img src="image/portfolio-preview.png" width="100%">
+```
+Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── image/
+│   ├── profile.jpg
+│   ├── certificates/
+│   └── assets/
+│
+├── js/
+│   └── scripts.js
+│
+└── README.md
 ```
 
 ---
 
-# 📬 Connect With Me
+## Website Sections
 
-- 📧 **Email:** zahidkhan0719@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/zahid-khan-116488322
-- 💻 **GitHub:** https://github.com/zahidkh1
+- About
+- Education
+- Technical Skills
+- Projects
+- Certifications
+- Achievements
+- Interests
+- Professional Profiles
 
 ---
 
-<div align="center">
+## Technical Stack
 
-### ⭐ If you like this portfolio, consider giving the repository a star!
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Framework | Bootstrap 5 |
+| Icons | Font Awesome |
+| Fonts | Google Fonts |
+| Deployment | GitHub Pages |
 
-Made with ❤️ by **Zahid Khan**
+---
 
-</div>
+## Objectives
+
+The primary objectives of this portfolio are:
+
+- Present academic and technical qualifications
+- Showcase engineering and robotics projects
+- Document certifications and achievements
+- Maintain a professional digital identity
+- Provide a platform for future research publications and open-source contributions
+
+---
+
+## Current Areas of Development
+
+- AI-powered Robotics
+- Embedded Systems using ESP32
+- Autonomous Mobile Robots
+- Computer Vision Applications
+- Intelligent Human–Machine Interfaces
+
+---
+
+## Future Work
+
+The portfolio will continue to evolve with the inclusion of:
+
+- Research publications
+- Technical blogs
+- Robotics demonstrations
+- Project documentation
+- Open-source contributions
+- Experimental prototypes
+
+---
+
+## Contact
+
+**Zahid Khan**
+
+Computer Science Engineering (Robotics & Artificial Intelligence)
+
+Email:
+zahidkhan0719@gmail.com
+
+GitHub:
+https://github.com/zahidkh1
+
+LinkedIn:
+https://www.linkedin.com/in/zahid-khan-116488322
+
+---
+
+## License
+
+This project is released for academic and portfolio purposes.
+
+© Zahid Khan. All Rights Reserved.
