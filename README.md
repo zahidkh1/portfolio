@@ -132,7 +132,7 @@ It also serves as a living archive that will continue to evolve with every new p
 
 > Portfolio homepage
 
-html
+
 <img src="image/portfolio-preview.png" width="100%">
 
 
@@ -140,20 +140,17 @@ html
 
 # 📁 Repository Structure
 
-```
-Portfolio/
+```text
+portfolio/
 │
 ├── image/
-├── assets/
-├── css/
-├── js/
+│   └── logo.jpeg
+│   └── portfolio-preview.png
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-│
-└── LICENSE
+└── README.md
 ```
 
 ---
